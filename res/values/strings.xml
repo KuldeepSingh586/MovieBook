@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovieBook App</string>
+    <string name="no_contacts">No Movies</string>
+    <string name="menuitem_add">Add</string>
+    <string name="menuitem_edit">Edit</string>
+    <string name="menuitem_delete">Delete</string>
+    <string name="button_save_contact">Save Moive</string>
+    <string name="hint_title">Title of Moive(Required)</string>
+    <string name="hint_year">Year</string>
+    <string name="hint_director">Director Name</string>
+    <string name="hint_rating">Rating of moive </string>
+    <string name="hint_length">length or duration of moive</string>
+    <string name="hint_type">type of moive i.e action</string>
+    <string name="hint_soundeffects">Sound effects  </string>
+    <string name="label_title">Title:</string>
+    <string name="label_year">Year:</string>
+    <string name="label_director">Director:</string>
+    <string name="label_rating">Rating:</string>
+    <string name="label_length">length:</string>
+    <string name="label_type">type:</string>
+    <string name="label_soundeffects">Sound effects:</string>
+    <string name="confirm_title">Are You Sure?</string>
+    <string name="confirm_message">This will permanently delete the moive</string>
+    <string name="ok">OK</string>
+    <string name="error_message">You must enter a moive name</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+   <string name=" action_settings">Settings</string>
+   <string name="movieList">Movie List</string>
+<string name="buttonBack">Button Back</string>
+</resources>
